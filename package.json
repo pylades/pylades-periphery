@@ -1,6 +1,7 @@
 {
   "name": "@pyladesprotocol/periphery",
-  "version": "1.1.0-beta.0",
+  "version": "1.1.0",
+  "author": "Andreas Bigger",
   "description": "💂 Peripheral smart contracts for interacting with Pylades",
   "engines": {
     "node": ">=10"
